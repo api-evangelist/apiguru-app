@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Apiguru.app provides a real‑time Amazon data API that delivers product details, pricing, reviews, seller analytics and inventory information across all Amazon marketplaces. It offers a free tier with 100 requests per month and paid plans for higher volume, targeting developers, arbitrage traders, brand owners and data‑driven businesses. The service emphasizes speed, reliability and easy integration via clean JSON responses and a no‑code dashboard.
+apiguru-app is currently listed as a stub in the API Evangelist catalog, originating from the mcp-registry harvest. No verifiable public website or detailed company information could be identified; the domain https://apiguru.app/ returns a generic page that does not name the company. Consequently, the provider's identity remains limited to its catalog entry.
 
-**Areas:** Company · API · Data · Amazon · Real-time · Integration
+**Areas:** Company · Stub · Harvest · API-Evangelist · Catalog
 
 ## apiguru-app on APIs.io
 
@@ -109,52 +109,14 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://apiguru.app/)
 - [Sign up](https://dash.apiguru.app/register)
 - [Privacy policy](https://dash.apiguru.app/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 38.7** — thin · rubric 0.25.0 · scored 2026-10-30
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 62.5 |
-| Contract quality | 54.4 |
-| Contract governance | 79.1 |
-| Operational transparency | 10.5 |
-| Developer ergonomics | 11.9 |
-| Access clarity | 23.7 |
-
-**Agent readiness 42.8** — agent-ready (gated down from agent-native)
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | yes |
-| Agentic Access | unknown |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | bearer (partial credit) |
-| Idempotency | — |
-| Error Semantics | verified |
-| OpenAPI Examples | verified |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | conformant |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | distinct |
-
-**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/apiguru-app/](https://apis.io/providers/apiguru-app/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
